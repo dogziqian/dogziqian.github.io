@@ -1,0 +1,36 @@
+@charset="UTF-8"
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #F6F6F6;
+}
+a{
+	text-decoration: none;
+}
+#header{
+	background-color: black;
+	height: 100px;
+	width: 100%;
+}
+#middle{
+	background-color: blue;
+	height:800px;
+	width:100%;
+	border-top: solid 1px green;
+}
+#mid-left{
+	background-color: yellow;
+	height: 800px;
+	width: 30%;
+	border-right: solid 1px green;
+}
+#footer{
+	background-color: red;
+	height: 200px;
+	width: 100%;
+	border-top: solid 1px yellow;
+}
